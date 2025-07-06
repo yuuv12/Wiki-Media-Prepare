@@ -1,0 +1,4 @@
+mwparserfromhell==0.7.2
+opencc-python-reimplemented==0.1.7
+tqdm==4.67.1
+wikiextractor==3.0.6
